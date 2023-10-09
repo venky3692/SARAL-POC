@@ -1,0 +1,4 @@
+['Invoice no: 40378170\n\x0c', 
+'Date of issue: 10/15/2012\n\x0c', 
+'Seller:\n\nPatel, Thompson and Montgomery\n356 Kyle Vista\n\nNew James, MA 46228\n\nTax Id: 958-74-3511\nIBAN: GB77WRBQ31965128414006\n\x0c', 
+'Client:\n\nJackson, Odonnell and Jackson\n267 John Track Suite 841\nJenniferville, PA 98601\n\nTax Id: 998-87-7723\n\x0c']
